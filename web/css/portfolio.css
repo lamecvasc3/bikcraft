@@ -9,9 +9,9 @@
 	margin: 0 auto;
 }
 
-.quote_clientes p {
+.quote_clientes p{
 	text-align: center;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: Georgia, "Times New Roman", serif;
 	font-size: 18px;
 	line-height: 25px;
 	font-style: italic;
@@ -21,7 +21,6 @@
 .quote_clientes cite {
 	font-size: 18px;
 	font-weight: bold;
-	text-align: right;
 	float: right;
 	font-style: normal;
 }
